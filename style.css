@@ -16,3 +16,23 @@ h2{
 img{
   float:left;
 }
+
+.left{
+  float:left;
+  width: 300px;
+}
+
+.right{
+  float:right;
+  width: 300px;
+}
+.center{
+  margin-left: 300px;
+  margin-right: 300px;
+}
+
+#contents li{
+  display:inline;
+  margin-left: 60px;
+  margin-right: 60px;
+}
