@@ -1,0 +1,18 @@
+body{
+  font-family: "OpenSans", "Monospaced";
+  color: darkblue;
+  margin: 10px 50px 10px 50px;
+  background-color:ivory;
+}
+
+h1{
+  font-family: "Oswald", "Monospaced";
+}
+
+h2{
+  font-family: "Oswald", "Monospaced";
+}
+
+img{
+  float:left;
+}
